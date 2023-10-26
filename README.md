@@ -48,6 +48,7 @@
 ### WebSite
 
 - Develop Study Blog: [https://blex.me/@wolfsil](https://blex.me/@wolfsil)
+- Develop study Blog2: [https://velog.io/@wolfsil](https://velog.io/@wolfsil)
 
 ## Personal
 
