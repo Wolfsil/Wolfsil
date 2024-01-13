@@ -40,6 +40,10 @@
 - Svelte for Web
 - ETC: Numpy, Pandas, Opencv, Websocket, Socket
 
+### Certificate
+- Engineer Information Processing (Human Resources Development Service of Korea) 
+
+
 ### Study
 
 - Godot for Game Develop
