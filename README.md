@@ -36,18 +36,13 @@
 - Tensorflow For Ai
 - NodeJs for Server
 - Express for Restapi
-- Fastify for Restapi
+- Mysql/Postgresql for Data Saving
 - Svelte for Web
 - ETC: Numpy, Pandas, Opencv, Websocket, Socket
 
 ### Certificate
 - Engineer Information Processing (Human Resources Development Service of Korea) 
 
-
-### Study
-
-- Godot for Game Develop
-- Unreal for Game Develop
 
 ### WebSite
 
@@ -62,12 +57,3 @@
 - Search New Tech
 - Game Analysis
 
-### Now
-
----
-
-- Develop Game CNN Classification
-- Develop Game, Card Game
-- Develop Game, Animal
-- Develop Game, RogLike
-- Develop Game, Study+Game
